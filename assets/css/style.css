@@ -27,12 +27,6 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-<<<<<<< HEAD
-  background-image: url("../images/hero-bg.jpg");
-  background-size: cover;
-  background-position: center;
-=======
->>>>>>> feature/mediaqueries
   background-attachment: fixed;
   background-position: 80%;
 }
@@ -67,10 +61,6 @@ header nav ul li a {
   padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
-<<<<<<< HEAD
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-=======
->>>>>>> feature/mediaqueries
 
 }
 
@@ -97,12 +87,7 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-<<<<<<< HEAD
-  background-attachment: fixed;
-  background-position: 80%;
-=======
   align-items: flex-start;
->>>>>>> feature/mediaqueries
 }
 
 .hero-cta {
@@ -118,10 +103,6 @@ section {
   font-style: italic;
   font-size: 55px;
   color: #fce138;
-<<<<<<< HEAD
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-=======
->>>>>>> feature/mediaqueries
 
 }
 
@@ -133,11 +114,6 @@ section {
   color: #024e76;
   width: 40%;
   margin: 3.5%;
-<<<<<<< HEAD
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-=======
-
->>>>>>> feature/mediaqueries
 }
 
 .hero-form h3 {
@@ -157,11 +133,7 @@ section {
   color: #024e76;
   width: 100%;
   margin-bottom: 15px;
-<<<<<<< HEAD
-  border-radius: 10px;
-=======
   
->>>>>>> feature/mediaqueries
 }
 
 .hero-form label {
@@ -174,11 +146,7 @@ section {
   border: none;
   padding: 10px 20px;
   font-size: 16px;
-<<<<<<< HEAD
-  border-radius: 10px;
-=======
   
->>>>>>> feature/mediaqueries
 }
 
 /*---Hero Style End---*/
